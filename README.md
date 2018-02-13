@@ -26,3 +26,14 @@ Document reference: https://socket.io/
 This app contains all clean, efficient, and working code that is deisgned and user firendly for users to message pther users in a chat messenger app. 
 
 # Project Files #
+Project files are organized into folders such as Views, public, and routes 
+Project contains: 
+- index.html
+- main.js
+- app.js
+- Multiple pages such as contact.js and users.js, etc..
+- package.json
+- Gruntfile.js
+- Minified code such as SASS and JS
+
+Project files are organized and minified for easy development and structure of this application.
