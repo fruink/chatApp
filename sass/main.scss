@@ -1,0 +1,28 @@
+/* reset */
+* {
+	margin: 0; padding: 0; box-sizing: border-box;
+}
+
+body { font: 13px Arial, sans-serif; background-image: url("../img/public/background.jpeg"); background-color: #393939;/*fallback background*/}
+
+form {
+	padding:4px;
+  position:fixed;
+  bottom:12;
+  width:87%;
+  margin-left: 25px;
+  top: 80%;
+
+	input { border: 0; padding: 10px; width: 95%; margin-left: 3%; margin-right: 3%; margin-top: 30px;}
+
+	button { width: 40%; background: #82e0ff; border: none; padding: 12px; margin-top: 30px; margin-left: 30%; }
+}
+
+.username{ margin-left: 40px; margin-top: 30px; height: 30px; text-align: center;}
+
+#chatMessages {
+	list-style-type: none; margin: 0; padding: 0; color: #fff; margin-top: 40px;
+
+	li { padding: 10px; width: 70%; margin-left: 13%; height: 43px; transform: skew(5deg); background: #8d8e8e; margin-top: 15px; text-align: center;	}
+	li:nth-child(odd) { background: #54c5eb; width: 70%; margin-left: 13%; margin-top: 10px; height: 60px; background-color: #22b6d3; border-radius: 50%; text-align: center; padding: 20px; }
+}
