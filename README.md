@@ -19,7 +19,7 @@ Document reference: https://socket.io/
 
 # Project Contains #
 
-- Chat app skin design created first in adobe Photoshop and in css -> scss, js, and greensock libraries
+- Chat app skin design created first in adobe Photoshop and in css -> scss, js
 - Working files merged to master branch on github with a detailed readMe.
 -	Use of Node / NPM / socket.io to create the assets and folder structure for the development of app
 - Use of Grunt to compile and minify development files (SCSS -> CSS and minified JS)
